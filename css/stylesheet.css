@@ -35,6 +35,18 @@ header, nav, main, footer {
     display: inline;
 }
 
+table {
+    border: 2px solid darkblue;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 0.5em;
+    border: 1px solid darkblue;
+}
+
+
+
 /* Header */
 header {
     background-image: url("../img/bigfish.gif");
